@@ -1,5 +1,5 @@
 # UX_consignments_delivery_app_design
-This is an UX design for consignments delivery application.
+This is an UX design for consignments delivery application. Created with 3 other people for UX Design subject on AGH University of Technology and Science.
 ## Used tools:
 - Figma 
 - Miro
